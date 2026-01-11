@@ -1,9 +1,9 @@
 
 ### Hi👋, This Is Mohammad Arif
 #### A Web Application Developer 
-Greetings from Alfin Arif. I am a Mern Stack Developer and expert on Python Django. Web coding, learning new things, fixing coding problems, and helping others are things I enjoy to do. with over 3+ years of experience in web development.
+Greetings from Alfin Arif. I am a Web Application Developer and expert on Python Django. Web coding, learning new things, fixing coding problems, and helping others are things i enjoy to do. with over 3+ years of experience in web application development.
 
-Strongly experienced on JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Python, Django.
+Experienced on JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Python, Django.
 
 Backend always start with analysis of application.
 
